@@ -1,7 +1,11 @@
-# leaflet-map-csv
+# leaflet-map-from_csv
 Build a simple Leaflet map with point markers from a CSV file.
 
-![Screenshot](leaflet-map-csv.png)
+## github repo
+## Depoly Manually to Netlify
+https://seq-trip.netlify.app/
+
+
 
 ## Demo
 https://handsondataviz.github.io/leaflet-map-csv/
